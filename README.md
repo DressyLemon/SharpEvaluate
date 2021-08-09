@@ -18,7 +18,7 @@ Now you can use the example code below inside of your project to start **evaluat
 
 ```csharp
 using System;
-using Evaluator
+using Evaluator;
 namespace Example
 {
     class Program
